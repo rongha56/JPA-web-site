@@ -12,6 +12,7 @@
 	<name>core</name>
 	<description>core module for PreSale-WebSite</description>
 
+
 	<dependencies>
 		<dependency>
 			<groupId>PreSale-WebSite</groupId>
